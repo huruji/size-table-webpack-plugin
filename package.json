@@ -21,5 +21,9 @@
     "filesize": "^4.0.0",
     "gzip-size": "^5.0.0",
     "herb": "^2.2.6"
-  }
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ]
 }

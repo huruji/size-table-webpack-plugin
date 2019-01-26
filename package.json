@@ -1,0 +1,25 @@
+{
+  "name": "size-table-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huruji/size-table-webpack-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huruji/size-table-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/huruji/size-table-webpack-plugin#readme",
+  "dependencies": {
+    "filesize": "^4.0.0",
+    "gzip-size": "^5.0.0",
+    "herb": "^2.2.6"
+  }
+}

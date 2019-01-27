@@ -19,4 +19,4 @@ const config = {
 }
 ```
 
-<img  width="350" align="center" src="./screenshot.png" />
+<img  width="700" align="center" src="./screenshot.png" />

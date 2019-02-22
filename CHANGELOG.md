@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.0.0"></a>
+# [3.0.0](https://github.com/huruji/size-table-webpack-plugin/compare/v2.0.0...v3.0.0) (2019-02-22)
+
+
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/huruji/size-table-webpack-plugin/compare/v1.2.1...v2.0.0) (2019-02-22)
 

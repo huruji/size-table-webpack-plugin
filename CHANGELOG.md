@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="4.0.0"></a>
+# [4.0.0](https://github.com/huruji/size-table-webpack-plugin/compare/v3.0.0...v4.0.0) (2019-02-22)
+
+
+### Features
+
+* :sparkles: add clear option ([b76906c](https://github.com/huruji/size-table-webpack-plugin/commit/b76906c))
+
+
+
 <a name="3.0.0"></a>
 # [3.0.0](https://github.com/huruji/size-table-webpack-plugin/compare/v2.0.0...v3.0.0) (2019-02-22)
 

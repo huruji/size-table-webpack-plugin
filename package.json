@@ -1,12 +1,13 @@
 {
   "name": "size-table-webpack-plugin",
-  "version": "1.2.1",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version && git push --follow-tags origin master && npm publish",
-    "first-release": "standard-version --first-release"
+    "first-release": "standard-version --first-release",
+    "release:major": "standard-version --release-as major && git push --follow-tags origin master && npm publish"
   },
   "repository": {
     "type": "git",

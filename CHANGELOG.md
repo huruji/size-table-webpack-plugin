@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="4.0.2"></a>
+## [4.0.2](https://github.com/huruji/size-table-webpack-plugin/compare/v4.0.1...v4.0.2) (2019-02-23)
+
+
+### Bug Fixes
+
+* :bug: clear is not work ([3a2d6fc](https://github.com/huruji/size-table-webpack-plugin/commit/3a2d6fc))
+
+
+
 <a name="4.0.1"></a>
 ## [4.0.1](https://github.com/huruji/size-table-webpack-plugin/compare/v4.0.0...v4.0.1) (2019-02-22)
 

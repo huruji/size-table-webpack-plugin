@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/huruji/size-table-webpack-plugin#readme",
   "dependencies": {
+    "clear_screen": "^0.1.0",
     "filesize": "^4.0.0",
     "gzip-size": "^5.0.0",
     "herb": "^2.2.6"
